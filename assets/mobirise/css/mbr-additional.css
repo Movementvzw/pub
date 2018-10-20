@@ -3249,3 +3249,40 @@ body {
   color: #000000;
   text-align: left;
 }
+.cid-r5U9Y5RNiK {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-3-1440x1080.jpg");
+}
+.cid-r5U9Y5RNiK .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-r5U9Y5RNiK .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-r5U9Y5RNiK .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-r5U9Y5RNiK .team-item .item-image img {
+  width: 100%;
+}
+.cid-r5U9Y5RNiK .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-r5U9Y5RNiK .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-r5U9Y5RNiK .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-r5U9Y5RNiK .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-r5U9Y5RNiK .team-item .item-caption {
+  background: #efefef;
+}
